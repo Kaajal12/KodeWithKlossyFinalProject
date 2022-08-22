@@ -1,0 +1,100 @@
+
+nav{
+  display: flex;
+  padding-top:5px;
+  padding-bottom:2px;
+  align-items: center;
+  background-color:#1A759F;
+}
+
+.act {
+  width:800px;
+  height:400x;
+    object-fit:cover;
+
+}
+iframe {
+padding-top:10px;
+}
+button {
+  padding-left:10px;
+  padding-right:10px;
+  font-size:20px;
+  background-color:lightblue;
+}
+.fish {
+object-fit:cover;
+width:700px;
+height:500px;
+}
+a {
+  font-size:30px;
+  
+}
+.green {
+  width:500px;
+  height:370px;
+  object-fit:cover;
+  padding-bottom:30px;
+}
+nav img{
+  padding: 15px;
+  width: 120px;
+  object-fit:cover;
+
+}
+.sea {
+  width:400px;
+  height:400px;
+  object-fit:cover;
+  padding-top:40px;
+  padding-left:40px;
+  padding-right:15px;
+  padding-bottom:60px;
+}
+h2 {
+  font-family:fantasy;
+  letter-spacing:4px;
+}
+a {
+  font-size:18px;
+  color:black;
+}
+.navLinks{
+  flex: 1;
+  text-align: right;
+}
+.navLinks ul li{
+display: inline-block;
+padding: 4px 10px;
+position: relative;
+}
+
+ul{
+  list-style-type: none;
+  /* background-color:#178AAD; */
+  overflow: hidden;
+  padding: 1em;
+}
+li{
+  float: right;
+  display: inline;
+}
+li a {
+  text-decoration: none;
+  color:#D9ED92 ;
+  font-family: "Times New Roman", sans-serif;
+  font-size: 20px;
+  padding: 1em
+}
+h2{
+  font-size: 30px;
+}
+p{
+  font-size: 5px;
+  text-align: center;
+}
+form {
+  padding-left:30px;
+  font-size:20px;
+}
