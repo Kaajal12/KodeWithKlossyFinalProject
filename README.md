@@ -8,6 +8,6 @@ Learn More page a poll is displayed for users. Embedded on the Contact Us form i
 
 Additionally, by clicking on the Considerable Masking logo on the navigation bar it will direct users back to the home page with the image slider.
 
-Note: This website was constrcuted in Repl.it using HTML & CSS.
+Note: This website was constructed in Repl.it using HTML & CSS.
 
 
